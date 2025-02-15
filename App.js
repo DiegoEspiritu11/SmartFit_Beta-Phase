@@ -249,7 +249,7 @@ const SignInScreen = ({ navigation }) => {
         source={require('./assets/Bilog.png')}
         style={styles.circles}
       />
-      <Text style={styles.registerTitle}>Welcome Back!</Text>
+      <Text style={styles.registerTitle}>Welcome Back!!!</Text>
       <TextInput
         style={styles.input}
         placeholder="Enter your email"
