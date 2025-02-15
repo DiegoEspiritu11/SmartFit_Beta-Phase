@@ -246,7 +246,7 @@ const SignInScreen = ({ navigation }) => {
   return (
     <View style={styles.registerContainer}>
       <Image
-        source={require('./assets/Bilog.png')} // Replace with the correct image for the circles
+        source={require('./assets/Bilog.png')}
         style={styles.circles}
       />
       <Text style={styles.registerTitle}>Welcome Back!</Text>
